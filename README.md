@@ -1,4 +1,17 @@
 # Aidan Kingsbury Data Science Portfolio
+## Introduction
+* My name is Aidan Kingsbury and I am studying Applied Mathematics and Environmental Science at
+* Wheaton College IL. Within my study of Applied Math, I have had the privelage
+* to do some work in data science. Here is a brief overview of some of the 
+* work that I have done. My goal here is to showcase the breath of the data I have
+* worked with, ranging from geospatial to tabular to Voice to natural language. I have included
+* links to websites with my projects, along with some visuals, and a link to the 
+* physical jupyter notebook that I did the project in. Feel free to contacct me with
+* questions 
+* email: aidan.kingsbury@my.wheaton.edu
+* Cell: (651)-357-2339
+
+
 ## [Project 1: Geospatial Data](https://Akingz123.github.io/Portfolio/Project_02.html)
 * Using various Geospatial Analysis techniques to study and analyze the movement habits of
 * Galapagos Tortoises, specifically looking at migration patterns.
