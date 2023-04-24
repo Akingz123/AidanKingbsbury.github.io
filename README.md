@@ -17,15 +17,15 @@
 * Galapagos Tortoises, specifically looking at migration patterns.
 * [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_02.ipynb)
 
-![](https://github.com/Akingz123/Portfolio/blob/main/Tortoise_map.png)
-![](https://github.com/Akingz123/Portfolio/blob/main/Lat_graph.png)
+![](/Tortoise_map.png)
+![](/Lat_graph.png)
 
 ## [Project 2: Natural Language Processing](https://Akingz123.github.io/Portfolio/Project_03.html)
 * Training classifiers to sort documents into which United Nations Sustainable Development Goal
 * they belong to. Running many different combinations of classifier type, vectorizer type, minimum documents
 * a word or phrase must appear in to be relevant, and the range of sizes of signifigant phrases. Then determining
 * which configuration of the aforementioned variables produces the most accurate classifier.
-* [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_03.ipynb)
+* [Jupyter Notebook](/Project_03.ipynb)
 
 ![](https://github.com/Akingz123/Portfolio/blob/main/nlp_output.png)
 
@@ -34,4 +34,4 @@
 * creating classifiers to see how accurately these features can predict a speaker's gender.
 * [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_02.ipynb)
 
-![](https://github.com/Akingz123/Portfolio/blob/main/classifier_table.png)
+![](/classifier_table.png)
