@@ -4,8 +4,8 @@
 * Galapagos Tortoises, specifically looking at migration patterns.
 * [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_02.ipynb)
 
-[](https://github.com/Akingz123/Portfolio/blob/main/Tortoise_map.png)
-[](https://github.com/Akingz123/Portfolio/blob/main/Lat_graph.png)
+![](https://github.com/Akingz123/Portfolio/blob/main/Tortoise_map.png)
+![](https://github.com/Akingz123/Portfolio/blob/main/Lat_graph.png)
 
 ## [Project 2: Natural Language Processing](https://Akingz123.github.io/Portfolio/Project_03.html)
 * Training classifiers to sort documents into which United Nations Sustainable Development Goal
@@ -14,11 +14,11 @@
 * which configuration of the aforementioned variables produces the most accurate classifier.
 * [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_03.ipynb)
 
-[](https://github.com/Akingz123/Portfolio/blob/main/nlp_output.png)
+![](https://github.com/Akingz123/Portfolio/blob/main/nlp_output.png)
 
 ## [Project 3: Voice Data](https://Akingz123.github.io/Portfolio/HW_09.html)
 * Extracting multiple different features from voices such as f0, zcr, mfcc values, and delta values. Then
 * creating classifiers to see how accurately these features can predict a speaker's gender.
 * [Jupyter Notebook](https://github.com/Akingz123/Portfolio/blob/main/Project_02.ipynb)
 
-[](https://github.com/Akingz123/Portfolio/blob/main/classifier_table.png)
+![](https://github.com/Akingz123/Portfolio/blob/main/classifier_table.png)
