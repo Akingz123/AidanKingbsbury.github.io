@@ -1,5 +1,3 @@
-theme: architect
-
 # Aidan Kingsbury Data Science Portfolio
 ## [Project 1: Geospatial Data](https://Akingz123.github.io/Portfolio/Project_02.html)
 * Using various Geospatial Analysis techniques to study and analyze the movement habits of
