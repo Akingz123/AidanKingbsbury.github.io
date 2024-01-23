@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 # Aidan Kingsbury Data Science Portfolio
 ## Introduction
 * My name is Aidan Kingsbury and I am studying Applied Mathematics and Environmental Science at
