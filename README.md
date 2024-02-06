@@ -10,7 +10,7 @@
  questions 
 * email: aidan.kingsbury@my.wheaton.edu
 * Cell: (651)-357-2339
-* [Resume](Aidan_Kingsbury_Resume_June2023.docx)
+* [Resume](Aidan_Kingsbury_Resume_June2023.pdf)
 
 ## [EDA Examples](https://Akingz123.github.io/Portfolio/EDA_493.html)
 * Mapping the coordinates of different crash sites around the city
