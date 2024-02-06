@@ -11,6 +11,16 @@
 * email: aidan.kingsbury@my.wheaton.edu
 * Cell: (651)-357-2339
 
+##[EDA Examples](https://Akingz123.github.io/Portfolio/EDA_493.html)
+* Mapping the coordinated of different crash sites around the city
+![](/crash_data_visualization.jpg)
+* Ranking the primary contributory causes of crashes in the city
+ ![](/Causes_Ranked.jpg)
+
+
+
+
+
 
 ## [Project 1: Geospatial Data](https://Akingz123.github.io/Portfolio/Project_02.html)
 * Using various Geospatial Analysis techniques to study and analyze the movement habits of
