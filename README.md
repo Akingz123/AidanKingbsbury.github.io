@@ -12,7 +12,7 @@
 * Cell: (651)-357-2339
 
 ## [EDA Examples](https://Akingz123.github.io/Portfolio/EDA_493.html)
-* Mapping the coordinated of different crash sites around the city
+* Mapping the coordinates of different crash sites around the city
 ![](/crash_map.png)
 * Ranking the primary contributory causes of crashes in the city
  ![](/crash_bars.png)
