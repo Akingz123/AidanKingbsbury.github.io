@@ -13,9 +13,9 @@
 
 ##[EDA Examples](https://Akingz123.github.io/Portfolio/EDA_493.html)
 * Mapping the coordinated of different crash sites around the city
-![](/crash_data_visualization.jpg)
+![](/Screen Shot 2024-02-06 at 1.15.28 AM.png)
 * Ranking the primary contributory causes of crashes in the city
- ![](/Causes_Ranked.jpg)
+ ![](/Screen Shot 2024-02-06 at 1.15.06 AM.png)
 
 
 
